@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         // Load the web page in the WebView
         webView.getSettings().setJavaScriptEnabled(true);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("http://google.com"); // Replace with your desired URL
+        webView.loadUrl("https://huggingface.co/spaces/Sawera2004/CreaAI"); // Replace with your desired URL
 
         // Load AdMob banner ad
         AdRequest adRequest = new AdRequest.Builder().build();
