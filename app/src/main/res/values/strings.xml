@@ -1,7 +1,5 @@
-
 <resources>
-
-    <string name="app_name">ZOLATON</string>
-    <string name="admob_banner_ad_unit_id">ca-app-pub-1030736842911962/5790770387</string>
-
+    <string name="app_name">CreaAI</string>
+    <string name="admob_banner_ad_unit_id">ca-app-pub-7629952266685985/4177705346</string>
+    <string name="admob_interstitial_ad_unit_id">ca-app-pub-7629952266685985/6124471742</string>
 </resources>
